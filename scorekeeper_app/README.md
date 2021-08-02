@@ -49,6 +49,14 @@
 ### b) IDE
 1. VSCode
 
+
+### Screenshots
+1. Main UI
+![image](https://user-images.githubusercontent.com/56042048/127806210-b95c6047-bf18-4a59-a626-affd2ddfbeff.png)
+
+2. Reset Message
+![image](https://user-images.githubusercontent.com/56042048/127806308-d0d592e1-3c50-4185-8d45-62215bde82cc.png)
+
 ## Deployment
 The application is not deployed on any URL.
 
