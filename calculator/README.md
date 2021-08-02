@@ -58,3 +58,5 @@
 
 # Screenshots
 
+1. Basic UI
+![image](https://user-images.githubusercontent.com/56042048/127801861-e3b422b6-0680-46a1-9d28-12bf5efad9a9.png)
