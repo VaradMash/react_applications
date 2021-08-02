@@ -60,3 +60,20 @@
 
 1. Basic UI
 ![image](https://user-images.githubusercontent.com/56042048/127801861-e3b422b6-0680-46a1-9d28-12bf5efad9a9.png)
+
+<br />
+2. Operations :
+![image](https://user-images.githubusercontent.com/56042048/127801985-8fc83b1d-6eaa-429e-95d7-dd66dbe6e7b6.png)
+
+3. Error Message :
+![image](https://user-images.githubusercontent.com/56042048/127802042-a747dc25-118b-48ab-bb10-a6001729d400.png)
+
+## Deployment
+The application is not deployed on any URL.
+
+## Usage
+1. In order to run the application, clone the repository.
+2. Change the directory of the terminal to the directory of the application
+3. Run "npm start" in the terminal.
+4. The application shall be opened on the browser on a dedicated port(usually 3000).
+5. If the port is previously occupied, please grant the permission access some other port.
