@@ -1,0 +1,47 @@
+h1 {
+    color: white;
+}
+
+.Scorecard{
+    flex: 1;
+    border: 2px solid blanchedalmond;
+    border-radius: 20px;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    width: 45%;
+}
+
+.Scorecard:hover{
+    box-shadow: 5px 5px 10px 10px blueviolet;
+}
+
+@font-face {
+    font-family: "digital_font";
+    src: url("../assets/digital_font.ttf");
+}
+
+.number{
+    flex: 1;
+    margin-top: 2%;
+    border-radius: 20px;
+    border: 2px solid white;
+    background-color: white;
+    margin-right: 5%;
+    font-family: "digital_font", 'sans-serif';
+    font-size: 60px;
+}
+
+.button{
+    border: 0px solid #96ecff;
+    border-radius: 20px;
+    font-family: "Style Script", cursive;
+    font-size: 50px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 5px;
+    background-color: #96ecff;
+}
+
+.counters{
+    color: black;
+}
