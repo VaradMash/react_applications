@@ -61,12 +61,12 @@
 1. Basic UI
 ![image](https://user-images.githubusercontent.com/56042048/127801861-e3b422b6-0680-46a1-9d28-12bf5efad9a9.png)
 
-<br />
 2. Operations :
 ![image](https://user-images.githubusercontent.com/56042048/127801985-8fc83b1d-6eaa-429e-95d7-dd66dbe6e7b6.png)
 
 3. Error Message :
-![image](https://user-images.githubusercontent.com/56042048/127802042-a747dc25-118b-48ab-bb10-a6001729d400.png)
+![image](https://user-images.githubusercontent.com/56042048/127802334-0b760732-a263-460c-8d70-73b120ad3a96.png)
+
 
 ## Deployment
 The application is not deployed on any URL.
