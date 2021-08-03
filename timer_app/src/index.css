@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "digital_font";
+    src: url("./assets/digital_font.ttf");
+}
+
+#Header{
+    font-family: "digital_font";
+    font-size: 100px;
+    color: cornsilk;
+}
+
+.time_value{
+    color: black;
+    font-family: "digital_font";
+    font-size: 100px;
+}
+
+.Timecard{
+    background-color: #fff;
+    border-radius: 20px;
+    border: 0px solid white;
+    width: 30%;
+    height: fit-content;
+    margin-left: 2%;
+    margin-right: 2%;
+}
